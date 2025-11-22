@@ -1,4 +1,0 @@
-- [x] Analyze the syntax error in main.py
-- [x] Fix global variable declaration order in main() function  
-- [x] Test the fixed script to ensure it runs without errors
-- [ ] Create .gitignore file for the Python project
